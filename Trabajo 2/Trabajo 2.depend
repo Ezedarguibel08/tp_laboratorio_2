@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557461315 source:c:\users\eze\desktop\trabajo 2\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arrayEmpleados.h"
+
+1557461433 c:\users\eze\desktop\trabajo 2\arrayempleados.h
+	<stdio.h>
+	<stdlib.h>
+
+1557461315 source:c:\users\eze\desktop\trabajo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmpleados.h"
+
